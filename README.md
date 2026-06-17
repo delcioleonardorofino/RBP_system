@@ -1,7 +1,5 @@
 # Sistema de Gestão Acadêmica (Multi-tenant)
 
-Scaffold inicial para um sistema de gestão escolar multi-tenant com RBAC.
-
 Stack: FastAPI, SQLAlchemy, PostgreSQL, Alembic, JWT (local)
 
 - Cada escola é um `tenant`.
